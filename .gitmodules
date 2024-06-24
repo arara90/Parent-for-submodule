@@ -1,4 +1,4 @@
 [submodule "submodule"]
 	path = submodule
 	url = ../my-submodule
-	branch = feature/test1
+	branch = main
